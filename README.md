@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aajaber
+- 👋 Hi, I’m Ahmad Jaber
 - 👀 I’m interested in Flutter & FrontEnd Development
 - 🌱 I’m currently learning Flutter & FrontEnd
 - 📫 How to reach me aajaber@gmail.com
